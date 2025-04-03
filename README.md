@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @farzamvalizade
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Backend
--  📶  My telegram Channel: https://t.me/TechTinker_farzam
+## Farzam Valizade
+I'm Farzam.I'm currently learning Programming and  I have some skills and projects that you can see them in my github.I'm working and learning in Web development. 
+
+## 🌐 Socials
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farzamvalizade) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Debug_Zone) [🌐](https://farzamvalizade.github.io)
+
+##Skills
 
 
 <!---
