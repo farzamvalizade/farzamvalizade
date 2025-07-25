@@ -4,7 +4,7 @@ I'm Farzam.I'm currently learning Programming and  I have some skills and projec
 ## 🌐 Socials
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farzamvalizade)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Debug_Zone)  
-[🌐](https://farzamvalizade.github.io)
+[🌐](https://farzamv.ir)
 
 
 ## Skills
